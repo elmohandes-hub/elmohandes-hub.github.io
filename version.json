@@ -1,0 +1,20 @@
+{
+ "version": "1.0.0",
+ "date": "2026-10-31",
+ "notes": [
+  "أول نسخة من برنامج المهندس"
+ ],
+ "android": {
+  "v": "1.0.0",
+  "code": 10000,
+  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.0/ELMOHANDES.apk",
+  "sha256": "5a6fe6c94c463ed17ef1332cc63ede8289fce6b35bca5c211da26f5537643d8d",
+  "size": 11513975
+ },
+ "windows": {
+  "v": "1.0.0",
+  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.0/ELMOHANDES-Setup-1.0.0.exe",
+  "sha256": "2179bdb11f89273619c9841b19dfd3ae5de88ef24013fc4018c053049d0aecd1",
+  "size": 95515772
+ }
+}
