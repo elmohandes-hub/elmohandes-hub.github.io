@@ -1,24 +1,21 @@
 {
- "version": "1.0.1",
+ "version": "1.0.2",
  "date": "2026-11-01",
  "notes": [
-  "شكل جديد للابتوب (التصميم اللي اخترته): القايمة فوق، و«نهارك سعيد» ورصيد الدرج، والبحث والزراير، و3 كروت للصيانة والتنبيهات والأجهزة",
-  "من غير حساب: البرنامج يشتغل 3 أيام تجربة، وبعدها لازم تدخل بحساب المحل، والبيانات محفوظة",
-  "إصلاح: كود المالك مايضيعش لو اتعمل وقت مزامنة الأكواد",
-  "إصلاح: كلمة «جهاز» كانت بتظهر ناقصة في تنبيهات الرئيسية",
-  "إصلاح: اسم المحل لو اتكتب بالعربي كان بيتغير لوحده لـ «المهندس» أول مرة"
+  "صاحب المحل يقدر يعمل حساب جديد من جوه البرنامج: يكتب إيميله وباسورد جديد مرتين",
+  "طلب التشغيل بقى فيه اسم المحل ورقم الموبايل بس"
  ],
  "android": {
-  "v": "1.0.1",
-  "code": 10001,
-  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.1/ELMOHANDES.apk",
-  "sha256": "97e18b776be38656742ce56a4fd86bd0fa72d8f86600e51f6ef944037549e12d",
-  "size": 11520018
+  "v": "1.0.2",
+  "code": 10002,
+  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.2/ELMOHANDES.apk",
+  "sha256": "2ddb53c40b90f4c6b3f683e83497e563b0763cdf36b578701f356901cdbcafec",
+  "size": 11520182
  },
  "windows": {
-  "v": "1.0.1",
-  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.1/ELMOHANDES-Setup-1.0.1.exe",
-  "sha256": "d644e28d9eeaa02a03166c8653fd821558d30a7863f14582a709b9efc274e0b4",
-  "size": 95519740
+  "v": "1.0.2",
+  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.2/ELMOHANDES-Setup-1.0.2.exe",
+  "sha256": "b001bcd8c91e38cb007c61b1c5d833ecd942a888c5f44504451895e7f7541a05",
+  "size": 95519995
  }
 }
