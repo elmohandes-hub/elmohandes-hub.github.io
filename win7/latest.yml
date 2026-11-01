@@ -1,0 +1,8 @@
+version: 1.0.3
+files:
+  - url: https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.3/ELMOHANDES-Win7-Setup-1.0.3.exe
+    sha512: ghGQON15M0aFD4wgPAKHXaej/RwAdHI4xjT2TTMsGzo0XXLQTJSi2cbzO5MdKA/adykkNUhw0hbcw/yPZ0diiA==
+    size: 82655505
+path: https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.3/ELMOHANDES-Win7-Setup-1.0.3.exe
+sha512: ghGQON15M0aFD4wgPAKHXaej/RwAdHI4xjT2TTMsGzo0XXLQTJSi2cbzO5MdKA/adykkNUhw0hbcw/yPZ0diiA==
+releaseDate: '2026-11-01T21:16:52.378Z'
