@@ -1,21 +1,25 @@
 {
- "version": "1.0.2",
+ "version": "1.0.3",
  "date": "2026-11-01",
  "notes": [
-  "صاحب المحل يقدر يعمل حساب جديد من جوه البرنامج: يكتب إيميله وباسورد جديد مرتين",
-  "طلب التشغيل بقى فيه اسم المحل ورقم الموبايل بس"
+  "فاتورة البيع: خانة واحدة. اكتب أول حروف الصنف هيطلعلك من المخزون بسعره، ولو مش موجود اكتب الاسم والسعر",
+  "الإجمالي بقى كبير وواضح في شاشة «راجع البيع» قبل الحفظ",
+  "إضافة صنف: الحاجات المهمة بس قدامك، والباقي في «تفاصيل أكتر». الباركود ليه زرار تصوير",
+  "المخزون: الأصناف سطر سطر (الاسم، السعر، الكمية). اللي قرب يخلص بالأحمر. باقي الأدوات في «أدوات وتقارير»",
+  "المرتبات: «الباقي له» بقى لحد النهارده، ويوم «بدأ الشغل» بيتحفظ والمرتب بيتحسب منه",
+  "الآجل: «يدفع إمتى» و«فكّرني كل كام يوم». على الموبايل بيجيلك إشعار تدوس عليه يفتح واتساب والرسالة جاهزة"
  ],
  "android": {
-  "v": "1.0.2",
-  "code": 10002,
-  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.2/ELMOHANDES.apk",
-  "sha256": "2ddb53c40b90f4c6b3f683e83497e563b0763cdf36b578701f356901cdbcafec",
-  "size": 11520182
+  "v": "1.0.3",
+  "code": 10003,
+  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.3/ELMOHANDES.apk",
+  "sha256": "116430d48b4d5c1a9125203d64f82b394fa11a53be325cfcff8faf527cc5c043",
+  "size": 11526879
  },
  "windows": {
-  "v": "1.0.2",
-  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.2/ELMOHANDES-Setup-1.0.2.exe",
-  "sha256": "b001bcd8c91e38cb007c61b1c5d833ecd942a888c5f44504451895e7f7541a05",
-  "size": 95519995
+  "v": "1.0.3",
+  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.3/ELMOHANDES-Setup-1.0.3.exe",
+  "sha256": "ff18d8cf1c2dfdc0c01d94a3b2ef2d143a8b3fc259ebb7bcf98a744c82b28f33",
+  "size": 95524124
  }
 }
