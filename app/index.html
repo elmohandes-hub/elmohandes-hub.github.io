@@ -22,7 +22,7 @@ a.b{display:block;text-decoration:none;color:#fff;border-radius:18px;padding:16p
 (async()=>{
   const ua=navigator.userAgent, A=document.getElementById('A'), W=document.getElementById('W');
   try{const v=await (await fetch('/version.json?t='+Date.now(),{cache:'no-store'})).json();
-    if(v.android&&v.android.url)A.href=v.android.url; if(v.windows&&v.windows.url)W.href=v.windows.url;
+    if(v.android&&v.android.url)A.href=v.android.url;try{const a=await (await fetch('/dl/apk.json?t='+Date.now(),{cache:'no-store'})).json();if(a.version===v.version)A.href='/dl/ELMOHANDES.apk?v='+a.version}catch(e){} if(v.windows&&v.windows.url)W.href=v.windows.url;
     if(v.version)document.title='تحميل المهندس '+v.version;}catch(e){}
   const go=u=>setTimeout(()=>{location.href=u},600);
   const F=/\/mobile/.test(location.pathname)?'A':/\/laptop/.test(location.pathname)?'W':'';
