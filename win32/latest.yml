@@ -1,0 +1,8 @@
+version: 1.0.3
+files:
+  - url: https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.3/ELMOHANDES-Win10-32bit-Setup-1.0.3.exe
+    sha512: B5bopuZeE5nRQrSZmEfw6P8ShcsJ1aLtOjaXQ5ZLnnyo/mOkehtgxpUBUuFcQGbzj//zSRQkMtS0/mHWufQwrQ==
+    size: 89903903
+path: https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.3/ELMOHANDES-Win10-32bit-Setup-1.0.3.exe
+sha512: B5bopuZeE5nRQrSZmEfw6P8ShcsJ1aLtOjaXQ5ZLnnyo/mOkehtgxpUBUuFcQGbzj//zSRQkMtS0/mHWufQwrQ==
+releaseDate: '2026-11-02T16:43:12.042Z'
