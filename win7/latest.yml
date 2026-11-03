@@ -1,8 +1,8 @@
-version: 1.0.3
+version: 1.0.4
 files:
-  - url: https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.3/ELMOHANDES-Win7-32bit-Setup-1.0.3.exe
-    sha512: gUwyGJJj1hAic3/PA9dabgEBfQ9VLPttvcOLbTNLw/wtLTP+zyXWC40ri75ZohiIbiw/7G1WIXEtuS1D5otmMQ==
-    size: 78831800
-path: https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.3/ELMOHANDES-Win7-32bit-Setup-1.0.3.exe
-sha512: gUwyGJJj1hAic3/PA9dabgEBfQ9VLPttvcOLbTNLw/wtLTP+zyXWC40ri75ZohiIbiw/7G1WIXEtuS1D5otmMQ==
-releaseDate: '2026-11-02T16:42:00.327Z'
+  - url: https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.4/ELMOHANDES-Win7-32bit-Setup-1.0.4.exe
+    sha512: XBMHtjvt5ZJggNVgpa+8vEQi368IyTK7680F1XeR79wkzcJC8o3h0D0Nuu18RM7L2HXPr98L75GxLs25SYrNfw==
+    size: 78833173
+path: https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.4/ELMOHANDES-Win7-32bit-Setup-1.0.4.exe
+sha512: XBMHtjvt5ZJggNVgpa+8vEQi368IyTK7680F1XeR79wkzcJC8o3h0D0Nuu18RM7L2HXPr98L75GxLs25SYrNfw==
+releaseDate: '2026-11-03T21:04:55.308Z'
