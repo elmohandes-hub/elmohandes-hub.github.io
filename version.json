@@ -1,20 +1,24 @@
 {
- "version": "1.0.4",
- "date": "2026-11-03",
+ "version": "1.0.5",
+ "date": "2026-11-04",
  "notes": [
-  "إصلاح: لو باسورد حساب المحل اتغيّر من رابط «نسيت الباسورد»، الأجهزة الجديدة كانت بتطلب كود مالك جديد والأكواد مابتتزامنش. دلوقتي أول جهاز يدخل بالباسورد الجديد بيرجّع الأكواد لكل الأجهزة"
+  "الأكواد والتليجرام ومفتاح المساعد بقوا بيوصلوا لأي جهاز جديد حتى لو باسورد حساب المحل اتغيّر",
+  "كمية الصنف بقت بتتجمع صح لو اتباع منه على جهازين في نفس الوقت أو جهاز كان من غير نت",
+  "قايمة الموظفين بقت بتتجمع صح من الأجهزة كلها",
+  "تنبيه لو ساعة الجهاز مش مظبوطة",
+  "استهلاك أقل من الباقة المجانية للسحابة"
  ],
  "android": {
-  "v": "1.0.4",
-  "code": 10004,
-  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.4/ELMOHANDES.apk",
-  "sha256": "60d76a0559bffa2645bc31814192792f194312c0e7f8087a7b064554d9429927",
-  "size": 11528798
+  "v": "1.0.5",
+  "code": 10005,
+  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.5/ELMOHANDES.apk",
+  "sha256": "d072b989edb46c0be761ce749c73c911a20edce63ab9935f1c8e21559e990b80",
+  "size": 11535066
  },
  "windows": {
-  "v": "1.0.4",
-  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.4/ELMOHANDES-Setup-1.0.4.exe",
-  "sha256": "93b79d46b4dc973aa54ccf164c14425e01410dffd5929344d8ff0638b9e2aad3",
-  "size": 95525511
+  "v": "1.0.5",
+  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.5/ELMOHANDES-Setup-1.0.5.exe",
+  "sha256": "f6162bb1f65bb9a7679adf762e2800d57f0716609d5fc6dd00e342f513ff195b",
+  "size": 95529617
  }
 }
