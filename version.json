@@ -1,24 +1,24 @@
 {
- "version": "1.0.5",
- "date": "2026-11-04",
+ "version": "1.0.6",
+ "date": "2026-11-05",
  "notes": [
-  "الأكواد والتليجرام ومفتاح المساعد بقوا بيوصلوا لأي جهاز جديد حتى لو باسورد حساب المحل اتغيّر",
-  "كمية الصنف بقت بتتجمع صح لو اتباع منه على جهازين في نفس الوقت أو جهاز كان من غير نت",
-  "قايمة الموظفين بقت بتتجمع صح من الأجهزة كلها",
-  "تنبيه لو ساعة الجهاز مش مظبوطة",
-  "استهلاك أقل من الباقة المجانية للسحابة"
+  "زرار «سحب» بقى للفلوس اللي دخلت المحفظة، و«إيداع» للفلوس اللي خرجت منها",
+  "زرار «مكنة» في الرئيسية يفتح تسجيل عملية المكنة على طول",
+  "كارت «عمليات المكنة النهارده» في الرئيسية بالمبالغ وزرار تسجيل",
+  "الجهاز الجديد بيستنى أكواد المحل من الحساب ومش بيطلب كود مالك جديد غير لو الحساب مفيهوش أكواد",
+  "الأكواد بتوصل حتى لو النت كان ضعيف وقت فتح البرنامج"
  ],
  "android": {
-  "v": "1.0.5",
-  "code": 10005,
-  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.5/ELMOHANDES.apk",
-  "sha256": "d072b989edb46c0be761ce749c73c911a20edce63ab9935f1c8e21559e990b80",
-  "size": 11535066
+  "v": "1.0.6",
+  "code": 10006,
+  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.6/ELMOHANDES.apk",
+  "sha256": "9034a16688ce06fe9a1ea5ce54b59bbaa864b7a444a511e30226f5031f2dafe0",
+  "size": 11539293
  },
  "windows": {
-  "v": "1.0.5",
-  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.5/ELMOHANDES-Setup-1.0.5.exe",
-  "sha256": "f6162bb1f65bb9a7679adf762e2800d57f0716609d5fc6dd00e342f513ff195b",
-  "size": 95529617
+  "v": "1.0.6",
+  "url": "https://github.com/elmohandes-hub/elmohandes-hub.github.io/releases/download/v1.0.6/ELMOHANDES-Setup-1.0.6.exe",
+  "sha256": "d22370dbfd616d54a8c4af28ec05325e27fd8aa3471e77e181863cb191c50640",
+  "size": 95532774
  }
 }
